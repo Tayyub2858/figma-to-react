@@ -1,0 +1,100 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar-container {
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    height: fit-content;
+    background-color: red;
+}
+
+.nav {
+    display: flex;
+}
+
+.navbar-container-text {
+    width: 100%;
+    margin: auto;
+}
+
+.navbar-brand {
+    margin-left: 3%;
+    display: flex;
+}
+
+.brand-logo {
+    background-color: #FCC604;
+    width: 50px;
+    line-height: 5px;
+    height: 50px;
+    border-radius: 50px;
+    color: #000;
+    font-family: Inter;
+    font-size: 35.936px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+}
+
+.logo-text {
+    color: #000;
+    font-family: Inter;
+    font-size: 34.957px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+/* styling of Navbar links  */
+.Navbar-links {
+    margin-left: 7%;
+}
+
+.navbar-btn {
+    padding: 5px 10px 5px 10px ;
+    /* padding: 10px; */
+    margin-left: 10px;
+    margin-top: 2%;
+    border: none;
+    background: none;
+    color: #333;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    cursor: pointer;
+}
+.navbar-btn:hover{
+background-color: #FCC504;
+color: #000;
+border-radius: 5px;
+}
+
+/* styling of navbar activelinks  */
+.navbar-actve-links{
+    margin-left: 5%;
+}
+.navbar-active-btn{
+    padding: 5px 10px 5px 10px ;
+    margin-top: 10%;
+    border: none;
+    /* background: none; */
+    background:#FCC504;
+    color: #FFFEFE;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    line-height: normal;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.navbar-active-btn:hover{
+    background-color: #333;
+    color:#FCC504 ;
+}

@@ -1,0 +1,109 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.slider-container {
+    width: 100%;
+}
+
+.slider-container-box {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    background-color: aqua;
+}
+
+.para-text1 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.heading-text1 {
+    color: #FCC504;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.heading-text2 {
+    color: #222;
+    font-family: Poppins;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.heading-text3 {
+    color: #222;
+    font-family: Poppins;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 23%;
+}
+
+.para-text2 {
+    margin-top: 2%;
+    color: #333;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    padding: 0px 80px 0px 10px;
+}
+
+.hireme-btn {
+    margin-top: 5%;
+    padding: 1% 5% 1% 5%;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background: #FCC504;
+    ;
+}
+
+/* Styling of the Right side slider  */
+.right-side-slider {
+    width: 100%;
+    margin: auto;
+}
+
+.first-border-box {
+    width: 330.193px;
+    height: 400.77px;
+    flex-shrink: 0;
+    border-radius: 100px 0px;
+    border: 5px solid #FCC504;
+}
+
+.second-box {
+    width: 360.655px;
+    height: 419.217px;
+    flex-shrink: 0;
+    border-radius: 100px 0px;
+    background: #D9D9D9;
+    margin: 5% 0% 0% 5%;
+}
+
+.user-img {
+    width: 401px;
+    height: 400px;
+    margin-left: -30px;
+    margin-top: 5%      ;
+}

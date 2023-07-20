@@ -1,0 +1,92 @@
+.footer-container {
+    width: 100%;
+    height: fit-content;
+    padding: 5% 0% 5% 0%;
+    background-color: #F5F5F5;
+}
+
+.footer-brand {
+    /* width: 100%; */
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-logo {
+    background-color: #FCC604;
+    width: 50px;
+    line-height: 5px;
+    height: 50px;
+    border-radius: 50px;
+    color: #000;
+    font-family: Inter;
+    font-size: 35.936px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.footer-logo-text {
+    color: #000;
+    font-family: Inter;
+    font-size: 34.957px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.Footer-links {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.footer-btn {
+    padding: 5px 10px 5px 10px;
+    /* padding: 10px; */
+    margin-left: 10px;
+    margin-top: 2%;
+    border: none;
+    background: none;
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.footer-btn:hover {
+    background-color: #FCC504;
+    color: #F5F5F5;
+    border-radius: 5px;
+}
+/* styling footer icons */
+.footer-icons{
+    padding: 5% 0% 5% 0%;
+    text-align: center;
+}
+.socialmedia-icons{
+    font-size: 40px;
+    cursor: pointer;
+}
+/* styleing for footer Rights  */
+.footer-rights{
+    width: 100%;
+    padding: 2% 0% 2% 0%;
+    background-color: #000;
+    text-align: center;
+}
+.para-footer-rights{
+    color: #FFF;
+font-family: Poppins;
+font-size: 25.128px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.name-rights{
+    color: #FCC504;
+}
