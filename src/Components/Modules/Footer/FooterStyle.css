@@ -90,3 +90,23 @@ line-height: normal;
 .name-rights{
     color: #FCC504;
 }
+@media only screen and (max-device-width: 768px){
+    .footer-logo{
+        font-size: 30px;
+        width: auto;
+        height: auto;
+    }
+    .footer-logo-text{
+        font-size: xx-large;
+    }
+    .footer-btn{
+        font-size:medium;
+        margin: auto;
+    }
+    .socialmedia-icons{
+        font-size: xx-large;
+    }
+    .para-footer-rights{
+        font-size: large;
+    }
+}

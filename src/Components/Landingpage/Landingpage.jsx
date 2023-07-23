@@ -11,8 +11,8 @@ const Landingpage = () =>{
     <Navbar/>
     <Slider/>
     <OtherContant/>
-    <Footer/>
     </div>
+    <Footer/>
    </>
   )
 }
